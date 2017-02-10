@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+node_modules/*
+*.log
+**/.*
+!.editorconfig
+!.gitignore
+!.npmignore
+!.eslintrc.yml
+!.eslintrc
+!.eslintignore
+!.gitlab-ci.yml
+dist/*
+coverage
+/lib/*
+.idea
+armor_snapshot
